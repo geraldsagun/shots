@@ -33,7 +33,7 @@ input#open {
   
   .card-front:before {
     content:"";
-    background-image: url('image/rose2.png');
+    background-image: url('shoti.jpeg');
     background-size: cover;
     position: absolute;
     width: 280px;
